@@ -8,4 +8,4 @@ function sayHello() {
     return "Hello, " + name;
 }
 
-sayHello('');
+sayHello("Jane");
